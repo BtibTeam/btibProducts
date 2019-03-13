@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+bash.exe.stackdump
