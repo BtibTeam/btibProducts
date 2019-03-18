@@ -1,0 +1,18 @@
+description = "Provides support palette and product info"
+
+niagaraModule {
+  preferredSymbol = "bpr"
+  moduleName = "btibProducts"
+  runtimeProfile = "rt"
+}
+
+jar {
+  from("src") {
+    include "**/*"
+  }
+}
+
+dependencies {
+  compile "Tridium:nre:4.6"
+  compile "Tridium:baja:4.6"
+}
