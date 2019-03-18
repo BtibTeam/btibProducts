@@ -21,7 +21,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/installationInstruction_2D1B.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D1BAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/manual.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/datasheet.pdf"/>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,8"/>
@@ -41,7 +40,6 @@
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/manual.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/datasheet.pdf"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D1B$2dWDAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,8,8"/>
   </p>
   <!-- /$32D1B/ISMA$2d2D -->
@@ -59,7 +57,6 @@
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/manual.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/datasheet.pdf"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2DAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,14,8"/>
   </p>
   <!-- /$32D1B/ISMA$2d2D$2dWD -->
@@ -77,7 +74,6 @@
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/manual.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/datasheet.pdf"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D$2dWDAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,20,8"/>
   </p>
  </p>
@@ -101,7 +97,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_sedonaModbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20AutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,17"/>
   </p>
   <!-- /AAC20/ISMA$2dAAC20$2dD -->
@@ -119,7 +114,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_dali.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dDAutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,17"/>
   </p>
   <!-- /AAC20/ISMA$2dAAC20$2dM -->
@@ -138,7 +132,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_mbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dMAutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,17"/>
   </p>
   <!-- /AAC20/ISMA$2dAAC20$2dLCD -->
@@ -156,7 +149,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_lcd.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCDAutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,19,17"/>
   </p>
   <!-- /AAC20/ISMA$2dAAC20$2dLCD$2dD -->
@@ -175,7 +167,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_dali.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCD$2dDAutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,25,17"/>
   </p>
   <!-- /AAC20/ISMA$2dAAC20$2dLCD$2dM -->
@@ -193,7 +184,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/AAC20/manual_mbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCD$2dMAutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,31,17"/>
   </p>
  </p>
@@ -216,7 +206,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/manual_application.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dHHAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,14"/>
   </p>
   <!-- /FCU/ISMA$2dFCU$2dHL -->
@@ -234,7 +223,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/manual_application.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dHLAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,14"/>
   </p>
   <!-- /FCU/ISMA$2dFCU$2dLL -->
@@ -252,7 +240,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/FCU/manual_application.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dLLAutomateConfigurable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,14"/>
   </p>
  </p>
@@ -276,7 +263,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MAC36/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MAC36/manual_install.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMAC36AutomateProgrammable"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
   </p>
  </p>
  <!-- /MG$20IP -->
@@ -299,7 +285,6 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MG_IP/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MG_IP/manual.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMG$2dIPElementRe$u0301seau"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
   </p>
  </p>
  <!-- /MINI -->
@@ -323,7 +308,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4I4O_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4I4O$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -344,7 +328,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4I4O_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4I4O$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -365,7 +348,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4O_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4O$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -386,7 +368,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4O_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4O$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -407,7 +388,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4TO_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4TO$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -428,7 +408,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4TO_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4TO$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -449,7 +428,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4U4A_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4A$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -470,7 +448,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4U4A_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4A$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -492,7 +469,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4U4O_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4O$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -514,7 +490,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_4U4O_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4O$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -535,7 +510,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_8I_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8I$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -557,7 +531,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_8I_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8I$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -579,7 +552,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_8U_H.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8U$2dHModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -601,7 +573,6 @@
    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H_IP.jpg"/>
    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/installationInstruction_8U_H_IP.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8U$2dH$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/manual_modbus.pdf"/>
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MINI/datasheet.pdf"/>
   </p>
@@ -626,7 +597,7 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/manual_modbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX18ModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,19,8"/>
   </p>
   <!-- /MIX/ISMA$2dMIX18$2dIP -->
   <p n="ISMA$2dMIX18$2dIP" h="bf" t="bs:Node">
@@ -644,7 +615,7 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/manual_modbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX18$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,8"/>
   </p>
   <!-- /MIX/ISMA$2dMIX38 -->
   <p n="ISMA$2dMIX38" h="c2" t="bs:Node">
@@ -662,7 +633,7 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/manual_modbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX38ModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,8"/>
   </p>
   <!-- /MIX/ISMA$2dMIX38$2dIP -->
   <p n="ISMA$2dMIX38$2dIP" h="c5" t="bs:Node">
@@ -680,7 +651,7 @@
    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/datasheet.pdf"/>
    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/MIX/manual_modbus.pdf"/>
    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-   <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX38$2dIPModuleE$2fS"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,8"/>
   </p>
  </p>
  <p n="displayNames" t="b:NameMap" v="{p1D3T7E8U7JY=ISMA-AAC20-M;f1D3SxeJJIJe=ISMA-AAC20-LCD;m1D3VzwXhJXF=ISMA-AAC20-LCD-D;Z1D3QRNP2O9C=ISMA-AAC20-D;B1D3QhfwmiVF=ISMA-AAC20;G1D3VPxmvr4m=ISMA-AAC20-LCD-M;}"/>
