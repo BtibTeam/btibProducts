@@ -831,5 +831,35 @@
    </p>
   </p>
  </p>
+ <!-- /HONEYWELL -->
+ <p n="HONEYWELL" h="11a" t="b:UnrestrictedFolder">
+  <p n="wsAnnotation" t="b:WsAnnotation" v="1,9,8"/>
+  <p n="displayNames" t="b:NameMap" v="{equipement=Equipement;}"/>
+  <!-- /HONEYWELL/EXCEL -->
+  <p n="EXCEL" h="142" t="b:UnrestrictedFolder">
+   <p n="wsAnnotation" t="b:WsAnnotation" v="1,9,8"/>
+   <p n="displayNames" t="b:NameMap" v="{}"/>
+   <!-- /HONEYWELL/EXCEL/HONEYWELL$20$2d$20EXCEL10 -->
+   <p n="HONEYWELL$20$2d$20EXCEL10" h="143" t="bs:Node">
+    <p n="advancedConfig" h="144" t="bc:AdvancedConfig">
+     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
+    </p>
+    <p n="displayedName" v="ISMA-2D1B"/>
+    <p n="description" v="Automate 2 dali 1 ballast"/>
+    <p n="overrideResources" h="145" t="bc:DefineResourceContainer">
+     <!-- /HONEYWELL/EXCEL/HONEYWELL$20$2d$20EXCEL10/overrideResources/wg0RL4w -->
+     <p n="wg0RL4w" h="146" t="bc:DefineResource">
+     </p>
+    </p>
+    <p n="id" v="e0RL4uXukEqMyJRBLjD4m"/>
+    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
+    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/installationInstruction_2D1B.pdf"/>
+    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
+    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/manual.pdf"/>
+    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/feature/ismaModules/docs/ISMA/2D1B/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,8"/>
+   </p>
+  </p>
+ </p>
 </p>
 </bajaObjectGraph>
