@@ -36,6 +36,8 @@
      <p n="wo0RKoE" h="fa" t="bc:DefineResource">
      </p>
     </p>
+    <p n="categoryOverride" h="290" t="bs:CategoryOverride">
+    </p>
     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="43,19,8"/>
     <!-- /Model/equipement/famille/Q1CAK126wqzj -->
     <p n="Q1CAK126wqzj" h="fb" t="bs:Node">
@@ -149,6 +151,8 @@
      </p>
     </p>
     <p n="level" v="2"/>
+    <p n="categoryOverride" h="291" t="bs:CategoryOverride">
+    </p>
     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="44,28,8"/>
     <p n="relation" t="b:Relation"><p n="sourceOrd" v="h:f7"/><p n="relationTags" v=""/><p n="relationId" v="b:isIn"/></p>
     <!-- /Model/equipement/reference/photo -->
@@ -201,6 +205,8 @@
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="overrideResources" h="1f8" t="bc:DefineResourceContainer">
+    </p>
+    <p n="categoryOverride" h="292" t="bs:CategoryOverride">
     </p>
     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="10,10,8"/>
     <p n="displayNames" t="b:NameMap" v="{Q1CAK126wqzj=I/O Module;e1CAMeWv9Gtl=Networked Meters;s1CAMGAyCCyR=Server;S1CALDFhUlYt=Programmable Logic Controller;B1CAMFqktKM3=Network Element;q1H1RC6QNJJb=Networked Actuators;m1CAM7elM4Ot=Preloaded Application Controller;g1CAMqyL0bu1=Networked Sensors;}"/>
@@ -327,6 +333,8 @@
     <p n="overrideResources" h="214" t="bc:DefineResourceContainer">
     </p>
     <p n="level" v="2"/>
+    <p n="categoryOverride" h="293" t="bs:CategoryOverride">
+    </p>
     <!-- /Model/equipment/reference/picture -->
     <p n="picture" h="215" t="bs:NodeTag">
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="36,16,12,7"/>
@@ -1078,75 +1086,86 @@
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,1,8"/>
    <p n="displayNames" t="b:NameMap" v="{}"/>
    <!-- /ISMA/$32D1B/ISMA$2d2D1B -->
-   <p n="ISMA$2d2D1B" h="7c" t="bs:Node">
-    <p n="advancedConfig" h="7d" t="bc:AdvancedConfig">
+   <p n="ISMA$2d2D1B" h="294" t="bs:Node">
+    <p n="advancedConfig" h="295" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-2D1B"/>
     <p n="description" v="2 dali bus 1 ballast controller"/>
-    <p n="overrideResources" h="7e" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="296" t="bc:DefineResourceContainer">
      <!-- /ISMA/$32D1B/ISMA$2d2D1B/overrideResources/wg0RL4w -->
-     <p n="wg0RL4w" h="7f" t="bc:DefineResource">
+     <p n="wg0RL4w" h="297" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="e0RL4uXukEqMyJRBLjD4m"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D1B.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D1B.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,23,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D1BPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/$32D1B/ISMA$2d2D1B$2dWD -->
-   <p n="ISMA$2d2D1B$2dWD" h="80" t="bs:Node">
-    <p n="advancedConfig" h="81" t="bc:AdvancedConfig">
+   <p n="ISMA$2d2D1B$2dWD" h="298" t="bs:Node">
+    <p n="advancedConfig" h="299" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-2D1B-WD"/>
     <p n="description" v="2 dali bus 1 ballast controller with wiedland connector"/>
-    <p n="overrideResources" h="82" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="29a" t="bc:DefineResourceContainer">
+     <!-- /ISMA/$32D1B/ISMA$2d2D1B$2dWD/overrideResources/we0RYqS -->
+     <p n="we0RYqS" h="2a1" t="bc:DefineResource">
+     </p>
     </p>
     <p n="id" v="Q0RL4yAzCOrmeJhcVqHwc"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B_WD.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D1B_WD.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,8,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B_WD.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D1B_WD.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,30,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D1B$2dWDPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/$32D1B/ISMA$2d2D -->
-   <p n="ISMA$2d2D" h="83" t="bs:Node">
-    <p n="advancedConfig" h="84" t="bc:AdvancedConfig">
+   <p n="ISMA$2d2D" h="29b" t="bs:Node">
+    <p n="advancedConfig" h="29c" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-2D"/>
     <p n="description" v="2 dali bus controller"/>
-    <p n="overrideResources" h="85" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="29d" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="t0RL4xV9yg1SMnLjQ8ahM"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,14,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,9,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2DPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/$32D1B/ISMA$2d2D$2dWD -->
-   <p n="ISMA$2d2D$2dWD" h="86" t="bs:Node">
-    <p n="advancedConfig" h="87" t="bc:AdvancedConfig">
+   <p n="ISMA$2d2D$2dWD" h="29e" t="bs:Node">
+    <p n="advancedConfig" h="29f" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-2D-WD"/>
     <p n="description" v="2 dali bus controller with wieland connector"/>
-    <p n="overrideResources" h="88" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2a0" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="Q0RL4yAzA1iyC2uMq5YDw"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B_WD.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D_WD.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,20,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/2D1B/2D1B_WD.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/installationInstruction_2D_WD.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/manual.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/2D1B/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,16,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d2D$2dWDPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
   <!-- /ISMA/AAC20 -->
@@ -1154,165 +1173,180 @@
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,5,8"/>
    <p n="displayNames" t="b:NameMap" v="{}"/>
    <!-- /ISMA/AAC20/ISMA$2dAAC20 -->
-   <p n="ISMA$2dAAC20" h="9b" t="bs:Node">
-    <p n="advancedConfig" h="9c" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20" h="2a2" t="bs:Node">
+    <p n="advancedConfig" h="2a3" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20"/>
     <p n="description" v="AAC20 controller"/>
-    <p n="overrideResources" h="9d" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2a4" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="i0RL50kuCSq3aKV4Byymd"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_sedonaModbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_sedonaModbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,135,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20ProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/AAC20/ISMA$2dAAC20$2dD -->
-   <p n="ISMA$2dAAC20$2dD" h="9e" t="bs:Node">
-    <p n="advancedConfig" h="9f" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20$2dD" h="2a5" t="bs:Node">
+    <p n="advancedConfig" h="2a6" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20-D"/>
     <p n="description" v="AAC20 controller with dali bus"/>
-    <p n="overrideResources" h="a0" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2a7" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="Y0RL50ku7LH1jX9BwDMUs"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_D.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_dali.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_D.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_dali.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,142,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dDProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/AAC20/ISMA$2dAAC20$2dM -->
-   <p n="ISMA$2dAAC20$2dM" h="a1" t="bs:Node">
-    <p n="advancedConfig" h="a2" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20$2dM" h="2a8" t="bs:Node">
+    <p n="advancedConfig" h="2a9" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20-M"/>
     <p n="description" v="AAC20 controller with mbus bus"/>
-    <p n="overrideResources" h="a3" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2aa" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="S0RL5524rpGZKyrE10aVw"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_mbus.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_M.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_mbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_mbus.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_M.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_mbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,170,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dMProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/AAC20/ISMA$2dAAC20$2dLCD -->
-   <p n="ISMA$2dAAC20$2dLCD" h="a4" t="bs:Node">
-    <p n="advancedConfig" h="a5" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20$2dLCD" h="2ab" t="bs:Node">
+    <p n="advancedConfig" h="2ac" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20-LCD"/>
     <p n="description" v="AAC20 controller with LCD display"/>
-    <p n="overrideResources" h="a6" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2ad" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="D0RL52D5CQMhseYgpuc0J"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_lcd.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,19,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_lcd.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,149,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCDProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/AAC20/ISMA$2dAAC20$2dLCD$2dD -->
-   <p n="ISMA$2dAAC20$2dLCD$2dD" h="a7" t="bs:Node">
-    <p n="advancedConfig" h="a8" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20$2dLCD$2dD" h="2ae" t="bs:Node">
+    <p n="advancedConfig" h="2af" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20-LCD-D"/>
     <p n="description" v="AAC20 controller with LCD display and a dali bus"/>
-    <p n="overrideResources" h="a9" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2b0" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="w0RL55cZ00CVUkN6l6AVN"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD_D.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_dali.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,25,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD_D.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_dali.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,156,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCD$2dDProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/AAC20/ISMA$2dAAC20$2dLCD$2dM -->
-   <p n="ISMA$2dAAC20$2dLCD$2dM" h="aa" t="bs:Node">
-    <p n="advancedConfig" h="ab" t="bc:AdvancedConfig">
+   <p n="ISMA$2dAAC20$2dLCD$2dM" h="2b1" t="bs:Node">
+    <p n="advancedConfig" h="2b2" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-AAC20-LCD-M"/>
     <p n="description" v="AAC20 controller with LCD display and a mbus bus"/>
-    <p n="overrideResources" h="ac" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2b3" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="R0RL55cZ2VkJaMkuJTtnk"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD_mbus.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD_M.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_mbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,31,17"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/AAC20/AAC20_LCD_mbus.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/installationInstruction_LCD_M.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/AAC20/manual_mbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,163,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dAAC20$2dLCD$2dMProgrammableLogicController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
   <!-- /ISMA/FCU -->
   <p n="FCU" h="77" t="b:UnrestrictedFolder">
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,9,8"/>
-   <p n="displayNames" t="b:NameMap" v="{}"/>
-   <!-- /ISMA/FCU/ISMA$2dFCU$2dHH -->
-   <p n="ISMA$2dFCU$2dHH" h="ad" t="bs:Node">
-    <p n="advancedConfig" h="ae" t="bc:AdvancedConfig">
-     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
-    </p>
-    <p n="displayedName" v="ISMA-FCU-HH"/>
-    <p n="description" v="FCU HH controller 230V power / 230V triac output"/>
-    <p n="overrideResources" h="af" t="bc:DefineResourceContainer">
-    </p>
-    <p n="id" v="L0RL56WloZRfRLAIz7pEa"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_HH.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_HH.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,14"/>
-   </p>
+   <p n="displayNames" t="b:NameMap" v="{fcuHH=ISMA-FCU-HH;}"/>
    <!-- /ISMA/FCU/ISMA$2dFCU$2dHL -->
-   <p n="ISMA$2dFCU$2dHL" h="b0" t="bs:Node">
-    <p n="advancedConfig" h="b1" t="bc:AdvancedConfig">
+   <p n="ISMA$2dFCU$2dHL" h="2b4" t="bs:Node">
+    <p n="advancedConfig" h="2b5" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-FCU-HL"/>
     <p n="description" v="FCU HH controller 230V power / 24V triac output"/>
-    <p n="overrideResources" h="b2" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2b6" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="d0RL580M4S5xLEA3xkyba"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_HL.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_HL.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,14"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_HL.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_HL.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,184,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dHLPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/FCU/ISMA$2dFCU$2dLL -->
-   <p n="ISMA$2dFCU$2dLL" h="b3" t="bs:Node">
-    <p n="advancedConfig" h="b4" t="bc:AdvancedConfig">
+   <p n="ISMA$2dFCU$2dLL" h="2b7" t="bs:Node">
+    <p n="advancedConfig" h="2b8" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-FCU-LL"/>
     <p n="description" v="FCU HH controller 24V power / 24V triac output"/>
-    <p n="overrideResources" h="b5" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2b9" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="a0RL580M7CQAcxxHLAuXv"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_LL.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_LL.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,14"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_LL.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_LL.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,191,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dLLPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   </p>
+   <!-- /ISMA/FCU/fcuHH -->
+   <p n="fcuHH" h="2ba" t="bs:Node">
+    <p n="advancedConfig" h="2bb" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
+     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
+    </p>
+    <p n="displayedName" v="ISMA-FCU-HH"/>
+    <p n="description" v="FCU HH controller 230V power / 230V triac output"/>
+    <p n="overrideResources" h="2bc" t="bc:DefineResourceContainer">
+    </p>
+    <p n="id" v="L0RL56WloZRfRLAIz7pEa"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/FCU/FCU_HH.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/installationInstruction_HH.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/FCU/manual_application.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,177,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dFCU$2dHHPreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
   <!-- /ISMA/MAC36 -->
@@ -1328,13 +1362,16 @@
     <p n="displayedName" v="ISMA-MAC36"/>
     <p n="description" v="MAC36 controller"/>
     <p n="overrideResources" h="b8" t="bc:DefineResourceContainer">
+     <!-- /ISMA/MAC36/ISMA$2dMAC36/overrideResources/wQ0RYqT -->
+     <p n="wQ0RYqT" h="2bd" t="bc:DefineResource">
+     </p>
     </p>
     <p n="id" v="P0RL59kdqyM1WjRo5lpxM"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MAC36/MAC36.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/installationInstruction.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/manual_install.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MAC36/MAC36.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/installationInstruction.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MAC36/manual_install.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
    </p>
   </p>
   <!-- /ISMA/MG$20IP -->
@@ -1342,21 +1379,23 @@
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,17,8"/>
    <p n="displayNames" t="b:NameMap" v="{}"/>
    <!-- /ISMA/MG$20IP/ISMA$2dMG$2dIP -->
-   <p n="ISMA$2dMG$2dIP" h="b9" t="bs:Node">
-    <p n="advancedConfig" h="ba" t="bc:AdvancedConfig">
+   <p n="ISMA$2dMG$2dIP" h="2be" t="bs:Node">
+    <p n="advancedConfig" h="2bf" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-MG-IP"/>
     <p n="description" v="MBUS to IP converter module"/>
-    <p n="overrideResources" h="bb" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2c0" t="bc:DefineResourceContainer">
     </p>
     <p n="id" v="i0RL5BOEUbt9e1yr8oTHh"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MG_IP/MG_IP.png"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/installationInstruction.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/manual.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MG_IP/MG_IP.png"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/installationInstruction.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MG_IP/manual.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,198,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMG$2dIPNetworkElement"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
   <!-- /ISMA/MINI -->
@@ -1364,366 +1403,405 @@
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,21,8"/>
    <p n="displayNames" t="b:NameMap" v="{}"/>
    <!-- /ISMA/MINI/ISMA$2d4I4O$2dH -->
-   <p n="ISMA$2d4I4O$2dH" h="6" t="bs:Node">
-    <p n="advancedConfig" h="7" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4I4O$2dH" h="2c1" t="bs:Node">
+    <p n="advancedConfig" h="2c2" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4I4O-H"/>
     <p n="description" v="4 digital inputs / 4 digital outputs module"/>
-    <p n="overrideResources" h="8" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2c3" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4I4O$2dH/overrideResources/wF0RKoI -->
-     <p n="wF0RKoI" h="9" t="bc:DefineResource">
+     <p n="wF0RKoI" h="2c4" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="f0RKoDqP3PQGUel6iuS2j"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,79,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4I4O_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,37,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4I4O_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4I4O$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4I4O$2dH$2dIP -->
-   <p n="ISMA$2d4I4O$2dH$2dIP" h="a" t="bs:Node">
-    <p n="advancedConfig" h="b" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4I4O$2dH$2dIP" h="2c5" t="bs:Node">
+    <p n="advancedConfig" h="2c6" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4I4O-H-IP"/>
     <p n="description" v="4 digital inputs / 4 digital outputs module with IP"/>
-    <p n="overrideResources" h="c" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2c7" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4I4O$2dH$2dIP/overrideResources/wx0RKoI -->
-     <p n="wx0RKoI" h="d" t="bc:DefineResource">
+     <p n="wx0RKoI" h="2c8" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="U0RKoDpfgBcm89wnMUNKK"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,73,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4I4O_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,44,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4I4O_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4I4O_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4I4O$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4O$2dH -->
-   <p n="ISMA$2d4O$2dH" h="e" t="bs:Node">
-    <p n="advancedConfig" h="f" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4O$2dH" h="2c9" t="bs:Node">
+    <p n="advancedConfig" h="2ca" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4O-H"/>
     <p n="description" v="4 digital outputs module"/>
-    <p n="overrideResources" h="10" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2cb" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4O$2dH/overrideResources/wg0RL4q -->
-     <p n="wg0RL4q" h="11" t="bc:DefineResource">
+     <p n="wg0RL4q" h="2cc" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="S0RL4ntVcNt1Z0zNf4f40"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,67,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4O_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,51,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4O_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4O$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4O$2dH$2dIP -->
-   <p n="ISMA$2d4O$2dH$2dIP" h="12" t="bs:Node">
-    <p n="advancedConfig" h="13" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4O$2dH$2dIP" h="2cd" t="bs:Node">
+    <p n="advancedConfig" h="2ce" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4O-H-IP"/>
     <p n="description" v="4 digital outputs module with IP"/>
-    <p n="overrideResources" h="14" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2cf" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4O$2dH$2dIP/overrideResources/wF0RL4o -->
-     <p n="wF0RL4o" h="15" t="bc:DefineResource">
+     <p n="wF0RL4o" h="2d0" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="M0RL4ntVhf2lGgQYBxxYL"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,61,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4O_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,58,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4O_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4O_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4O$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4TO$2dH -->
-   <p n="ISMA$2d4TO$2dH" h="16" t="bs:Node">
-    <p n="advancedConfig" h="17" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4TO$2dH" h="2d1" t="bs:Node">
+    <p n="advancedConfig" h="2d2" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4TO-H"/>
     <p n="description" v="4 triac outputs module"/>
-    <p n="overrideResources" h="18" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2d3" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4TO$2dH/overrideResources/wA0RL4q -->
-     <p n="wA0RL4q" h="19" t="bc:DefineResource">
+     <p n="wA0RL4q" h="2d4" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="K0RL4ogRE0yoQNeBUI1YR"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,55,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4TO_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,65,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4TO_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4TO$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4TO$2dH$2dIP -->
-   <p n="ISMA$2d4TO$2dH$2dIP" h="1a" t="bs:Node">
-    <p n="advancedConfig" h="1b" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4TO$2dH$2dIP" h="2d5" t="bs:Node">
+    <p n="advancedConfig" h="2d6" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4TO-H-IP"/>
     <p n="description" v="4 triac outputs module with IP"/>
-    <p n="overrideResources" h="1c" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2d7" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4TO$2dH$2dIP/overrideResources/wu0RL4q -->
-     <p n="wu0RL4q" h="1d" t="bc:DefineResource">
+     <p n="wu0RL4q" h="2d8" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="s0RL4pyeVcUkb23e7cpTE"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,49,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4TO_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,72,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4TO_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4TO_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4TO$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4U4A$2dH -->
-   <p n="ISMA$2d4U4A$2dH" h="1e" t="bs:Node">
-    <p n="advancedConfig" h="1f" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4U4A$2dH" h="2d9" t="bs:Node">
+    <p n="advancedConfig" h="2da" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4U4A-H"/>
     <p n="description" v="4 universal inputs / 4 analog outputs module"/>
-    <p n="overrideResources" h="20" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2db" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4U4A$2dH/overrideResources/wy0RL4q -->
-     <p n="wy0RL4q" h="21" t="bc:DefineResource">
+     <p n="wy0RL4q" h="2dc" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="P0RL4pyeHpQaXZ8x9BIGl"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,43,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4A_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,79,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4A_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4A$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4U4A$2dH$2dIP -->
-   <p n="ISMA$2d4U4A$2dH$2dIP" h="22" t="bs:Node">
-    <p n="advancedConfig" h="23" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4U4A$2dH$2dIP" h="2dd" t="bs:Node">
+    <p n="advancedConfig" h="2de" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4U4A-H-IP"/>
     <p n="description" v="4 universal inputs / 4 analog outputs module with IP"/>
-    <p n="overrideResources" h="24" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2df" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4U4A$2dH$2dIP/overrideResources/wI0RL4q -->
-     <p n="wI0RL4q" h="25" t="bc:DefineResource">
+     <p n="wI0RL4q" h="2e0" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="V0RL4pyeLt34hTbftyQQg"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,37,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4A_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,86,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4U4A_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4A_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4A$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4U4O$2dH -->
-   <p n="ISMA$2d4U4O$2dH" h="26" t="bs:Node">
-    <p n="advancedConfig" h="27" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4U4O$2dH" h="2e1" t="bs:Node">
+    <p n="advancedConfig" h="2e2" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4U4O-H"/>
     <p n="description" v="4 universal inputs / 4 digital outputs module"/>
-    <p n="overrideResources" h="28" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2e3" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4U4O$2dH/overrideResources/we0RL4q -->
-     <p n="we0RL4q" h="29" t="bc:DefineResource">
+     <p n="we0RL4q" h="2e4" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="C0RL4pyeSus1lcb7Vy5p7"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,31,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4O_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,93,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4O_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4O$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d4U4O$2dH$2dIP -->
-   <p n="ISMA$2d4U4O$2dH$2dIP" h="2a" t="bs:Node">
-    <p n="advancedConfig" h="2b" t="bc:AdvancedConfig">
+   <p n="ISMA$2d4U4O$2dH$2dIP" h="2e5" t="bs:Node">
+    <p n="advancedConfig" h="2e6" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-4U4O-H-IP"/>
     <p n="description" v="4 universal inputs / 4 digital outputs module with IP"/>
-    <p n="overrideResources" h="2c" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2e7" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d4U4O$2dH$2dIP/overrideResources/wt0RL4q -->
-     <p n="wt0RL4q" h="2d" t="bc:DefineResource">
+     <p n="wt0RL4q" h="2e8" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="X0RL4qSUJnrEUix1WVvJ9"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,25,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4O_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,100,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/4U4O_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_4U4O_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d4U4O$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d8I$2dH -->
-   <p n="ISMA$2d8I$2dH" h="2e" t="bs:Node">
-    <p n="advancedConfig" h="2f" t="bc:AdvancedConfig">
+   <p n="ISMA$2d8I$2dH" h="2e9" t="bs:Node">
+    <p n="advancedConfig" h="2ea" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-8I-H"/>
     <p n="description" v="8 digital inputs module"/>
-    <p n="overrideResources" h="30" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2eb" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d8I$2dH/overrideResources/wg0RL4w -->
-     <p n="wg0RL4w" h="31" t="bc:DefineResource">
+     <p n="wg0RL4w" h="2ec" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="v0RL4r8pN1T4nTLAJNlgN"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,19,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8I_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,107,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8I_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8I$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d8I$2dH$2dIP -->
-   <p n="ISMA$2d8I$2dH$2dIP" h="32" t="bs:Node">
-    <p n="advancedConfig" h="33" t="bc:AdvancedConfig">
+   <p n="ISMA$2d8I$2dH$2dIP" h="2ed" t="bs:Node">
+    <p n="advancedConfig" h="2ee" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-8I-H-IP"/>
     <p n="description" v="8 digital inputs module with IP"/>
-    <p n="overrideResources" h="34" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2ef" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d8I$2dH$2dIP/overrideResources/wR0RL4w -->
-     <p n="wR0RL4w" h="35" t="bc:DefineResource">
+     <p n="wR0RL4w" h="2f0" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="b0RL4tM3WdnTiSeUoS2Iu"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8I_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,114,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/8I_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8I_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8I$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d8U$2dH -->
-   <p n="ISMA$2d8U$2dH" h="36" t="bs:Node">
-    <p n="advancedConfig" h="37" t="bc:AdvancedConfig">
+   <p n="ISMA$2d8U$2dH" h="2f1" t="bs:Node">
+    <p n="advancedConfig" h="2f2" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-8U-H"/>
     <p n="description" v="8 universal input module"/>
-    <p n="overrideResources" h="38" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2f3" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d8U$2dH/overrideResources/wR0RL4w -->
-     <p n="wR0RL4w" h="39" t="bc:DefineResource">
+     <p n="wR0RL4w" h="2f4" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="j0RL4tM3PeYqTEZuQPZNB"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8U_H.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,121,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8U_H.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8U$2dHIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MINI/ISMA$2d8U$2dH$2dIP -->
-   <p n="ISMA$2d8U$2dH$2dIP" h="3a" t="bs:Node">
-    <p n="advancedConfig" h="3b" t="bc:AdvancedConfig">
+   <p n="ISMA$2d8U$2dH$2dIP" h="2f5" t="bs:Node">
+    <p n="advancedConfig" h="2f6" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-8U-H-IP"/>
     <p n="description" v="8 universal input module with IP"/>
-    <p n="overrideResources" h="3c" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2f7" t="bc:DefineResourceContainer">
      <!-- /ISMA/MINI/ISMA$2d8U$2dH$2dIP/overrideResources/wL0RL4w -->
-     <p n="wL0RL4w" h="3d" t="bc:DefineResource">
+     <p n="wL0RL4w" h="2f8" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="H0RL4tM3SvEpoSS4zJq1d"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,12"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8U_H_IP.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,128,12,7"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MINI/8U_H_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/installationInstruction_8U_H_IP.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/manual_modbus.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MINI/datasheet.pdf"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2d8U$2dH$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
   <!-- /ISMA/MIX -->
   <p n="MIX" h="7b" t="b:UnrestrictedFolder">
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,25,8"/>
-   <p n="displayNames" t="b:NameMap" v="{}"/>
-   <!-- /ISMA/MIX/ISMA$2dMIX18 -->
-   <p n="ISMA$2dMIX18" h="bc" t="bs:Node">
-    <p n="advancedConfig" h="bd" t="bc:AdvancedConfig">
-     <p n="initialized" v="true"/>
-     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
-    </p>
-    <p n="displayedName" v="ISMA-MIX18"/>
-    <p n="description" v="5 universal inputs / 5 digital inputs / 4 analog outputs / 4 digital outputs module"/>
-    <p n="overrideResources" h="be" t="bc:DefineResourceContainer">
-    </p>
-    <p n="id" v="t0RL5DGa0nzr6mU8CR2nU"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MIX/MIX18.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_18.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,19,8"/>
-   </p>
+   <p n="displayNames" t="b:NameMap" v="{mix38=ISMA-MIX38;mix18=ISMA-MIX18;}"/>
    <!-- /ISMA/MIX/ISMA$2dMIX18$2dIP -->
-   <p n="ISMA$2dMIX18$2dIP" h="bf" t="bs:Node">
-    <p n="advancedConfig" h="c0" t="bc:AdvancedConfig">
+   <p n="ISMA$2dMIX18$2dIP" h="2f9" t="bs:Node">
+    <p n="advancedConfig" h="2fa" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-MIX18-IP"/>
     <p n="description" v="5 universal inputs / 5 digital inputs / 4 analog outputs / 4 digital outputs module with IP"/>
-    <p n="overrideResources" h="c1" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2fb" t="bc:DefineResourceContainer">
+     <!-- /ISMA/MIX/ISMA$2dMIX18$2dIP/overrideResources/wx0RQ4Z -->
+     <p n="wx0RQ4Z" h="2fc" t="bc:DefineResource">
+     </p>
     </p>
     <p n="id" v="r0RL5DGZjBU4snfFWnJkG"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MIX/MIX18_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_18_IP.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,13,8"/>
-   </p>
-   <!-- /ISMA/MIX/ISMA$2dMIX38 -->
-   <p n="ISMA$2dMIX38" h="c2" t="bs:Node">
-    <p n="advancedConfig" h="c3" t="bc:AdvancedConfig">
-     <p n="initialized" v="true"/>
-     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
-    </p>
-    <p n="displayedName" v="ISMA-MIX38"/>
-    <p n="description" v="8 universal inputs / 12 digital inputs / 6 analog outputs / 12 digital outputs module"/>
-    <p n="overrideResources" h="c4" t="bc:DefineResourceContainer">
-    </p>
-    <p n="id" v="d0RL5DGZxuy2vSv2UykPg"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MIX/MIX38.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_38.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,7,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MIX/MIX18_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_18_IP.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,212,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX18$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
    <!-- /ISMA/MIX/ISMA$2dMIX38$2dIP -->
-   <p n="ISMA$2dMIX38$2dIP" h="c5" t="bs:Node">
-    <p n="advancedConfig" h="c6" t="bc:AdvancedConfig">
+   <p n="ISMA$2dMIX38$2dIP" h="2fd" t="bs:Node">
+    <p n="advancedConfig" h="2fe" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
     <p n="displayedName" v="ISMA-MIX38-IP"/>
     <p n="description" v="8 universal inputs / 12 digital inputs / 6 analog outputs / 12 digital outputs module with IP"/>
-    <p n="overrideResources" h="c7" t="bc:DefineResourceContainer">
+    <p n="overrideResources" h="2ff" t="bc:DefineResourceContainer">
+     <!-- /ISMA/MIX/ISMA$2dMIX38$2dIP/overrideResources/wi0RQ4X -->
+     <p n="wi0RQ4X" h="300" t="bc:DefineResource">
+     </p>
     </p>
     <p n="id" v="y0RL5DGZutazVi0gN6aku"/>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3135c1" t="b:String" v="module://btibProducts/ISMA/MIX/MIX38_IP.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3135c2" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_38_IP.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$313cd1" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$313cce" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3135c4" t="b:String" v="GC5"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="1,1,8"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MIX/MIX38_IP.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_38_IP.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,226,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX38$2dIPIOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   </p>
+   <!-- /ISMA/MIX/mix18 -->
+   <p n="mix18" h="301" t="bs:Node">
+    <p n="advancedConfig" h="302" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
+     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
+    </p>
+    <p n="displayedName" v="ISMA-MIX18"/>
+    <p n="description" v="5 universal inputs / 5 digital inputs / 4 analog outputs / 4 digital outputs module"/>
+    <p n="overrideResources" h="303" t="bc:DefineResourceContainer">
+     <!-- /ISMA/MIX/mix18/overrideResources/wv0RQ4U -->
+     <p n="wv0RQ4U" h="304" t="bc:DefineResource">
+     </p>
+    </p>
+    <p n="id" v="t0RL5DGa0nzr6mU8CR2nU"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MIX/MIX18.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_18.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,205,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX18IOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
+   </p>
+   <!-- /ISMA/MIX/mix38 -->
+   <p n="mix38" h="305" t="bs:Node">
+    <p n="advancedConfig" h="306" t="bc:AdvancedConfig">
+     <p n="initialized" v="true"/>
+     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
+    </p>
+    <p n="displayedName" v="ISMA-MIX38"/>
+    <p n="description" v="8 universal inputs / 12 digital inputs / 6 analog outputs / 12 digital outputs module"/>
+    <p n="overrideResources" h="307" t="bc:DefineResourceContainer">
+     <!-- /ISMA/MIX/mix38/overrideResources/wT0RXie -->
+     <p n="wT0RXie" h="308" t="bc:DefineResource">
+     </p>
+    </p>
+    <p n="id" v="d0RL5DGZxuy2vSv2UykPg"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/ISMA/MIX/MIX38.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/installationInstruction_38.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/ISMA/MIX/manual_modbus.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="GC5"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="19,219,12,7"/>
+    <p n="relation1" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/iSMA$2dMIX38IOModule"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
  </p>
@@ -1734,28 +1812,28 @@
   <!-- /HONEYWELL/EXCEL -->
   <p n="EXCEL" h="142" t="b:UnrestrictedFolder">
    <p n="wsAnnotation" t="b:WsAnnotation" v="1,9,8"/>
-   <p n="displayNames" t="b:NameMap" v="{}"/>
-   <!-- /HONEYWELL/EXCEL/EXCEL10 -->
-   <p n="EXCEL10" h="147" t="bs:Node">
-    <p n="advancedConfig" h="148" t="bc:AdvancedConfig">
+   <p n="displayNames" t="b:NameMap" v="{excel10=EXCEL10;}"/>
+   <!-- /HONEYWELL/EXCEL/excel10 -->
+   <p n="excel10" h="309" t="bs:Node">
+    <p n="advancedConfig" h="30a" t="bc:AdvancedConfig">
      <p n="initialized" v="true"/>
      <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12,7"/>
     </p>
-    <p n="displayedName" v="HONEYWELL - EXCEL 10"/>
+    <p n="displayedName" v="EXCEL10"/>
     <p n="description" v="FCU controller"/>
-    <p n="overrideResources" h="149" t="bc:DefineResourceContainer">
-     <!-- /HONEYWELL/EXCEL/EXCEL10/overrideResources/wg0RL4w -->
-     <p n="wg0RL4w" h="14a" t="bc:DefineResource">
+    <p n="overrideResources" h="30b" t="bc:DefineResourceContainer">
+     <!-- /HONEYWELL/EXCEL/excel10/overrideResources/wg0RL4w -->
+     <p n="wg0RL4w" h="30c" t="bc:DefineResource">
      </p>
     </p>
     <p n="id" v="t0RQ3ZA7xXCsuxY2w3XKy"/>
-    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,8"/>
-    <p n="relation" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/hONEYWELL$2dEXCEL10"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
-    <p n="b$3aphoto" f="m" x="aoo=s:$3143f5" t="b:String" v="module://btibProducts/HONEYWELL/EXCEL/EXCEL10.jpg"/>
-    <p n="b$3aplanDeCablage" f="m" x="aoo=s:$3143f6" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/installationInstruction.pdf"/>
-    <p n="b$3aficheTechnique" f="m" x="aoo=s:$3143f7" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/datasheet.pdf"/>
-    <p n="b$3amanuel" f="m" x="aoo=s:$3143f8" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/manual.pdf"/>
-    <p n="b$3afabricant" f="m" x="aoo=s:$3143f9" t="b:String" v="HONEYWELL"/>
+    <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,12"/>
+    <p n="b$3apicture" f="m" x="aoo=s:$31f31c" t="b:String" v="module://btibProducts/HONEYWELL/EXCEL/EXCEL10.jpg"/>
+    <p n="b$3awiringDiagram" f="m" x="aoo=s:$31f31e" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/installationInstruction.pdf"/>
+    <p n="b$3adatasheet" f="m" x="aoo=s:$31f31d" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/datasheet.pdf"/>
+    <p n="b$3auserManual" f="m" x="aoo=s:$31f31f" t="b:String" v="https://docs.google.com/viewer?url=https://github.com/BtibTeam/btibProducts/raw/master/docs/HONEYWELL/EXCEL/manual.pdf"/>
+    <p n="b$3amanufacturer" f="m" x="aoo=s:$31f320" t="b:String" v="HONEYWELL"/>
+    <p n="relation" t="b:Relation"><p n="sourceOrd" v="slot:/Services/TagDictionaryService/Btib/tagGroupDefinitions/eXCEL10PreloadedApplicationController"/><p n="relationTags" v=""/><p n="relationId" v="n:tagGroup"/></p>
    </p>
   </p>
  </p>
